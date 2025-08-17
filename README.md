@@ -1,12 +1,28 @@
 # Hi, I'm Sabrina 🎀  
 
-✨ Fullstack Developer | 3+ years crafting web experiences  
-☕ Fueled by coffee, ideas, and cute stuff 🌸
+✨ Fullstack Developer | 3+ years crafting web experiences
+
+<p align="center">
+  <img src="media/cat.jpeg" alt="JavaScript" width="400" />
+  <p align="center">Me during code reviews</p>
+</p>
 
 ---
 
-## 🛠️ My Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-fff8d6?&logo=javascript&logoColor=f7df1e&labelColor=fff8d6)  ![TypeScript](https://img.shields.io/badge/-TypeScript-f0f6ff?&logo=typescript&logoColor=3178c6&labelColor=f0f6ff)  ![React](https://img.shields.io/badge/-React-e8faff?&logo=react&logoColor=61dafb&labelColor=e8faff)  ![Node.js](https://img.shields.io/badge/-Node.js-ebfaec?&logo=node.js&logoColor=339933&labelColor=ebfaec)  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-f3f6fb?&logo=postgresql&logoColor=336791&labelColor=f3f6fb)  ![MongoDB](https://img.shields.io/badge/-MongoDB-f0fff4?&logo=mongodb&logoColor=47a248&labelColor=f0fff4)  ![Docker](https://img.shields.io/badge/-Docker-f3f9ff?&logo=docker&logoColor=2496ed&labelColor=f3f9ff)  ![Python](https://img.shields.io/badge/-Python-fff9e6?&logo=python&logoColor=3776ab&labelColor=fff9e6)  ![Java](https://img.shields.io/badge/-Java-fff5f5?&logo=openjdk&logoColor=ec2025&labelColor=fff5f5)  
+## 🚀 Tech Stack
+Yes, I used AI for the logos
+<p align="center">
+  <img src="media/logos/typescript.png" alt="TypeScript" width="100" height="100"/>
+  <img src="media/logos/node.png" alt="Nodejs" width="100" height="100"/>
+  <img src="media/logos/javascript.png" alt="JavaScript" width="100" height="100"/>
+  <img src="media/logos/python.png" alt="Python" width="100" height="100"/>
+  <img src="media/logos/react.png" alt="React" width="100" height="100"/>
+  <img src="media/logos/java.png" alt="Java" width="100" height="100"/>
+  <img src="media/logos/docker.png" alt="Docker" width="100" height="100"/>
+  <img src="media/logos/mongodb.png" alt="MongoDB" width="100" height="100"/>
+  <img src="media/logos/postgresql.png" alt="PostgreSQL" width="100" height="100"/>
+  <img src="media/logos/springboot.png" alt="SpringBoot" width="100" height="100"/>
+</p>
 
 ---
 
@@ -24,5 +40,8 @@
 ---
 
 ## 💌 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-ffc0cb?&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/sabrina-correia-b199b1229)
+<a href="https://www.linkedin.com/in/sabrina-correia-b199b1229">
+  <img src="media/logos/linkedin.png" alt="LinkedinProfile" width="100" height="100"/>
+</a>
+
 
