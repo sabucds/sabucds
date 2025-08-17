@@ -24,4 +24,5 @@
 ---
 
 ## 💌 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-ffc0cb?&logo=linkedin&logoColor=black)](www.linkedin.com/in/sabrina-correia-b199b1229)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-ffc0cb?&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/sabrina-correia-b199b1229)
+
