@@ -12,16 +12,16 @@
 ## 🚀 Tech Stack
 Yes, I used AI for the logos
 <p align="center">
-  <img src="media/logos/typescript.png" alt="TypeScript" width="100" height="100"/>
-  <img src="media/logos/node.png" alt="Nodejs" width="100" height="100"/>
-  <img src="media/logos/javascript.png" alt="JavaScript" width="100" height="100"/>
-  <img src="media/logos/python.png" alt="Python" width="100" height="100"/>
-  <img src="media/logos/react.png" alt="React" width="100" height="100"/>
-  <img src="media/logos/java.png" alt="Java" width="100" height="100"/>
-  <img src="media/logos/docker.png" alt="Docker" width="100" height="100"/>
-  <img src="media/logos/mongodb.png" alt="MongoDB" width="100" height="100"/>
-  <img src="media/logos/postgresql.png" alt="PostgreSQL" width="100" height="100"/>
-  <img src="media/logos/springboot.png" alt="SpringBoot" width="100" height="100"/>
+  <img src="media/logos/typescript.png" alt="TypeScript" width="80" height="80"/>
+  <img src="media/logos/node.png" alt="Nodejs" width="80" height="80"/>
+  <img src="media/logos/javascript.png" alt="JavaScript" width="80" height="80"/>
+  <img src="media/logos/python.png" alt="Python" width="80" height="80"/>
+  <img src="media/logos/react.png" alt="React" width="80" height="80"/>
+  <img src="media/logos/java.png" alt="Java" width="80" height="80"/>
+  <img src="media/logos/docker.png" alt="Docker" width="80" height="80"/>
+  <img src="media/logos/mongodb.png" alt="MongoDB" width="80" height="80"/>
+  <img src="media/logos/postgresql.png" alt="PostgreSQL" width="80" height="80"/>
+  <img src="media/logos/springboot.png" alt="SpringBoot" width="80" height="80"/>
 </p>
 
 ---
