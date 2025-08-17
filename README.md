@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 Tech Stack
-Yes, I used AI for the logos
+Yes, those are AI generated
 <p align="center">
   <img src="media/logos/typescript.png" alt="TypeScript" width="80" height="80"/>
   <img src="media/logos/node.png" alt="Nodejs" width="80" height="80"/>
