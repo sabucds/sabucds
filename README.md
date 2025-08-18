@@ -1,6 +1,6 @@
 # Hi, I'm Sabrina 🎀  
 
-✨ Fullstack Developer | 3+ years crafting web experiences
+✨ Fullstack Developer | 3+ years crafting coquette web experiences
 
 <p align="center">
   <img src="media/cat.jpeg" alt="Me" width="400" />
