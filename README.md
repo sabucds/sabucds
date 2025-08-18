@@ -3,7 +3,7 @@
 ✨ Fullstack Developer | 3+ years crafting web experiences
 
 <p align="center">
-  <img src="media/cat.jpeg" alt="JavaScript" width="400" />
+  <img src="media/cat.jpeg" alt="Me" width="400" />
   <p align="center">Me during code reviews</p>
 </p>
 
