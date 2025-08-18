@@ -41,7 +41,7 @@ Yes, those are AI generated
 
 ## 💌 Let’s Connect
 <a href="https://www.linkedin.com/in/sabrina-correia-b199b1229">
-  <img src="media/logos/linkedin.png" alt="LinkedinProfile" width="100" height="100"/>
+  <img src="media/logos/linkedin.png" alt="LinkedinProfile" width="80" height="80"/>
 </a>
 
 
