@@ -28,7 +28,7 @@ Yes, those are AI generated
 
 ## 📊 Stats & Activity
 
-![Avi's GitHub stats](https://my-stats-pi-ashen.vercel.app/api?username=sabucds&show_icons=true&bg_color=fffafc&title_color=ffb6c1&text_color=555&icon_color=aee8fc&border_color=e6e6fa) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabucds&layout=compact&bg_color=fffafc&title_color=ffb6c1&text_color=555&icon_color=aee8fc&border_color=e6e6fa)
+![Avi's GitHub stats](https://my-stats-pi-ashen.vercel.app/api?username=sabucds&show_icons=true&bg_color=fffafc&title_color=ffb6c1&text_color=555&icon_color=aee8fc&border_color=e6e6fa&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabucds&layout=compact&bg_color=fffafc&title_color=ffb6c1&text_color=555&icon_color=aee8fc&border_color=e6e6fa)
 
 ---
 
