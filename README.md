@@ -15,6 +15,8 @@ Yes, those are AI generated
   <img src="media/logos/typescript.png" alt="TypeScript" width="80" height="80"/>
   <img src="media/logos/node.png" alt="Nodejs" width="80" height="80"/>
   <img src="media/logos/react.png" alt="React" width="80" height="80"/>
+  <img src="media/logos/next.png" alt="Nextjs" width="80" height="80"/>
+  <img src="media/logos/tailwind.png" alt="Tailwind" width="80" height="80"/>
   <img src="media/logos/python.png" alt="Python" width="80" height="80"/>
   <img src="media/logos/java.png" alt="Java" width="80" height="80"/>
   <img src="media/logos/springboot.png" alt="SpringBoot" width="80" height="80"/>
