@@ -28,7 +28,20 @@ Yes, those are AI generated
 
 ## 📊 Stats & Activity
 
-![Avi's GitHub stats](https://my-stats-pi-ashen.vercel.app/api?username=sabucds&show_icons=true&bg_color=fffafc&title_color=ffb6c1&text_color=555&icon_color=aee8fc&border_color=e6e6fa&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR) ![Top Langs](https://my-stats-pi-ashen.vercel.app/api/top-langs/?username=sabucds&layout=compact&bg_color=fffafc&title_color=ffb6c1&text_color=555&icon_color=aee8fc&border_color=e6e6fa)
+<p align="center">
+
+<a href="https://my-stats-pi-ashen.vercel.app/api/top-langs/?username=sabucds&layout=compact&bg_color=fffafc&title_color=ffb6c1&text_color=555&icon_color=aee8fc&border_color=e6e6fa">
+  <img height=200 align="center" src="https://my-stats-pi-ashen.vercel.app/api/top-langs/?username=sabucds&layout=compact&bg_color=fffafc&title_color=ffb6c1&text_color=555&icon_color=aee8fc&border_color=e6e6fa" />
+</a>
+
+<a href="https://my-stats-pi-ashen.vercel.app/api?username=sabucds&show_icons=true&bg_color=fffafc&title_color=ffb6c1&text_color=555&icon_color=aee8fc&border_color=e6e6fa&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
+  <img height=200 align="center" src="https://my-stats-pi-ashen.vercel.app/api?username=sabucds&show_icons=true&bg_color=fffafc&title_color=ffb6c1&text_color=555&icon_color=aee8fc&border_color=e6e6fa&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+</a>
+
+<a href="https://my-stats-pi-ashen.vercel.app/api/wakatime/?username=@sabucds&layout=compact&bg_color=fffafc&title_color=ffb6c1&text_color=555&icon_color=aee8fc&border_color=e6e6fa">
+  <img height=200 align="center" src="https://my-stats-pi-ashen.vercel.app/api/wakatime/?username=@sabucds&layout=compact&bg_color=fffafc&title_color=ffb6c1&text_color=555&icon_color=aee8fc&border_color=e6e6fa" />
+</a>
+</p>
 
 ---
 
