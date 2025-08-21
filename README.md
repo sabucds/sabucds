@@ -23,7 +23,7 @@ Yes, those are AI generated
   <img src="media/logos/docker.webp" alt="Docker" width="80" height="80"/>
   <img src="media/logos/mongodb.png" alt="MongoDB" width="80" height="80"/>
   <img src="media/logos/postgresql.png" alt="PostgreSQL" width="80" height="80"/>
-  <img src="media/logos/redis.png" alt="Redis" width="80" height="80"/>
+  <img src="media/logos/redis.webp" alt="Redis" width="80" height="80"/>
   <img src="media/logos/rabbitmq.webp" alt="RabbitMQ" width="80" height="80"/>
   <img src="media/logos/kafka.webp" alt="Kafka" width="80" height="80"/>
 </p>
