@@ -12,20 +12,48 @@
 ## 🚀 Tech Stack
 Yes, those are AI generated
 <p align="center">
-  <img src="media/logos/typescript.png" alt="TypeScript" width="80" height="80"/>
-  <img src="media/logos/node.png" alt="Nodejs" width="80" height="80"/>
-  <img src="media/logos/react.png" alt="React" width="80" height="80"/>
-  <img src="media/logos/next.webp" alt="Nextjs" width="80" height="80"/>
-  <img src="media/logos/tailwind.webp" alt="Tailwind" width="80" height="80"/>
-  <img src="media/logos/python.png" alt="Python" width="80" height="80"/>
-  <img src="media/logos/java.webp" alt="Java" width="80" height="80"/>
-  <img src="media/logos/springboot.png" alt="SpringBoot" width="80" height="80"/>
-  <img src="media/logos/docker.webp" alt="Docker" width="80" height="80"/>
-  <img src="media/logos/mongodb.png" alt="MongoDB" width="80" height="80"/>
-  <img src="media/logos/postgresql.png" alt="PostgreSQL" width="80" height="80"/>
-  <img src="media/logos/redis.webp" alt="Redis" width="80" height="80"/>
-  <img src="media/logos/rabbitmq.webp" alt="RabbitMQ" width="80" height="80"/>
-  <img src="media/logos/kafka.webp" alt="Kafka" width="80" height="80"/>
+  <a href="https://www.typescriptlang.org/">
+    <img src="media/logos/typescript.webp" alt="TypeScript" width="80" height="80"/>
+  </a>
+  <a href="https://nodejs.org/en">
+    <img src="media/logos/node.webp" alt="Nodejs" width="80" height="80"/>
+  </a>
+  <a href="https://react.dev/">
+    <img src="media/logos/react.webp" alt="React" width="80" height="80"/>
+  </a>
+  <a href="https://nextjs.org/">
+    <img src="media/logos/next.webp" alt="Nextjs" width="80" height="80"/>
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img src="media/logos/tailwind.webp" alt="Tailwind" width="80" height="80"/>
+  </a>
+  <a href="https://www.python.org/">
+    <img src="media/logos/python.webp" alt="Python" width="80" height="80"/>
+  </a>
+  <a href="https://www.java.com/">
+    <img src="media/logos/java.webp" alt="Java" width="80" height="80"/>
+  </a>
+  <a href="https://spring.io/projects/spring-boot">
+    <img src="media/logos/springboot.webp" alt="SpringBoot" width="80" height="80"/>
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="media/logos/docker.webp" alt="Docker" width="80" height="80"/>
+  </a>
+  <a href="https://www.mongodb.com/">
+    <img src="media/logos/mongodb.webp" alt="MongoDB" width="80" height="80"/>
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="media/logos/postgresql.webp" alt="PostgreSQL" width="80" height="80"/>
+  </a>
+  <a href="https://redis.io/">
+    <img src="media/logos/redis.webp" alt="Redis" width="80" height="80"/>
+  </a>
+  <a href="https://www.rabbitmq.com/">
+    <img src="media/logos/rabbitmq.webp" alt="RabbitMQ" width="80" height="80"/>
+  </a>
+  <a href="https://kafka.apache.org/">
+    <img src="media/logos/kafka.webp" alt="Kafka" width="80" height="80"/>
+  </a>
 </p>
 
 ---
