@@ -13,46 +13,46 @@
 Yes, those are AI generated
 <p align="center">
   <a href="https://www.typescriptlang.org/">
-    <img src="media/logos/typescript.webp" alt="TypeScript" width="50" height="50"/>
+    <img src="media/logos/typescript.webp" alt="TypeScript" width="60" height="60"/>
   </a>
   <a href="https://nodejs.org/en">
-    <img src="media/logos/node.webp" alt="Nodejs" width="50" height="50"/>
+    <img src="media/logos/node.webp" alt="Nodejs" width="60" height="60"/>
   </a>
   <a href="https://react.dev/">
-    <img src="media/logos/react.webp" alt="React" width="50" height="50"/>
+    <img src="media/logos/react.webp" alt="React" width="60" height="60"/>
   </a>
   <a href="https://nextjs.org/">
-    <img src="media/logos/next.webp" alt="Nextjs" width="50" height="50"/>
+    <img src="media/logos/next.webp" alt="Nextjs" width="60" height="60"/>
   </a>
   <a href="https://tailwindcss.com/">
-    <img src="media/logos/tailwind.webp" alt="Tailwind" width="50" height="50"/>
+    <img src="media/logos/tailwind.webp" alt="Tailwind" width="60" height="60"/>
   </a>
   <a href="https://www.python.org/">
-    <img src="media/logos/python.webp" alt="Python" width="50" height="50"/>
+    <img src="media/logos/python.webp" alt="Python" width="60" height="60"/>
   </a>
   <a href="https://www.java.com/">
-    <img src="media/logos/java.webp" alt="Java" width="50" height="50"/>
+    <img src="media/logos/java.webp" alt="Java" width="60" height="60"/>
   </a>
   <a href="https://spring.io/projects/spring-boot">
-    <img src="media/logos/springboot.webp" alt="SpringBoot" width="50" height="50"/>
+    <img src="media/logos/springboot.webp" alt="SpringBoot" width="60" height="60"/>
   </a>
   <a href="https://www.docker.com/">
-    <img src="media/logos/docker.webp" alt="Docker" width="50" height="50"/>
+    <img src="media/logos/docker.webp" alt="Docker" width="60" height="60"/>
   </a>
   <a href="https://www.mongodb.com/">
-    <img src="media/logos/mongodb.webp" alt="MongoDB" width="50" height="50"/>
+    <img src="media/logos/mongodb.webp" alt="MongoDB" width="60" height="60"/>
   </a>
   <a href="https://www.postgresql.org/">
-    <img src="media/logos/postgresql.webp" alt="PostgreSQL" width="50" height="50"/>
+    <img src="media/logos/postgresql.webp" alt="PostgreSQL" width="60" height="60"/>
   </a>
   <a href="https://redis.io/">
-    <img src="media/logos/redis.webp" alt="Redis" width="50" height="50"/>
+    <img src="media/logos/redis.webp" alt="Redis" width="60" height="60"/>
   </a>
   <a href="https://www.rabbitmq.com/">
-    <img src="media/logos/rabbitmq.webp" alt="RabbitMQ" width="50" height="50"/>
+    <img src="media/logos/rabbitmq.webp" alt="RabbitMQ" width="60" height="60"/>
   </a>
   <a href="https://kafka.apache.org/">
-    <img src="media/logos/kafka.webp" alt="Kafka" width="50" height="50"/>
+    <img src="media/logos/kafka.webp" alt="Kafka" width="60" height="60"/>
   </a>
 </p>
 
@@ -86,9 +86,9 @@ Yes, those are AI generated
 
 ## 💌 Let’s Connect
 <a href="https://www.linkedin.com/in/sabrina-correia-b199b1229">
-  <img src="media/logos/linkedin.webp" alt="LinkedinProfile" width="50" height="50"/>
+  <img src="media/logos/linkedin.webp" alt="LinkedinProfile" width="60" height="60"/>
 </a>
 <a href="https://www.instagram.com/sabucds">
-  <img src="media/logos/instagram.webp" alt="InstagramProfile" width="50" height="50"/>
+  <img src="media/logos/instagram.webp" alt="InstagramProfile" width="60" height="60"/>
 </a>
 
