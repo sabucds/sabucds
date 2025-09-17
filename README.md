@@ -61,6 +61,7 @@ Yes, those are AI generated
 ## 📊 Stats & Activity
 
 <p align="center">
+[![committers.top badge](https://user-badge.committers.top/venezuela/USERNAME.svg)](https://user-badge.committers.top/venezuela/sabucds)
 
 <a href="https://my-stats-pi-ashen.vercel.app/api/top-langs/?username=sabucds&layout=compact&bg_color=fffafc&title_color=ffb6c1&text_color=555&icon_color=aee8fc&border_color=e6e6fa">
   <img height=200 align="center" src="https://my-stats-pi-ashen.vercel.app/api/top-langs/?username=sabucds&layout=compact&bg_color=fffafc&title_color=ffb6c1&text_color=555&icon_color=aee8fc&border_color=e6e6fa" />
